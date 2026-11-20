@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 25 yo, low-level, scripting and fullstack
+Science and math nerd
 
 Student at 42Lyon
 
 🧠🪄
 
 <!--
-**benprz/benprz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aurelle2orl/aurelle2orl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
