@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-25 yo, low-level, scripting and fullstack
-
-Science and math nerd
+25 yo, low-level, scripting and fullstack -|- Science and math nerd
 
 Student at 42Lyon
 
